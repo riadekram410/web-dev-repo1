@@ -1,0 +1,2 @@
+git init( one time for every project) #initilize korbo git ke kaaj koraite
+git add .
